@@ -1,0 +1,8 @@
+com\hz\dao\IOrdersDao.class
+com\hz\dao\IPermissionDao.class
+com\hz\dao\IProductDao.class
+com\hz\dao\IRoleDao.class
+com\hz\dao\IMemberDao.class
+com\hz\dao\IUserDao.class
+com\hz\dao\ISysLogDao.class
+com\hz\dao\ITravellerDao.class
